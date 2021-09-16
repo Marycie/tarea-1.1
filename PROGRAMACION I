@@ -16,8 +16,7 @@ P5 = float(input("P5: "))
 P6 = float(input("P6: "))
 
     # Codigo  comienza  aqui
-m= (P1+P2+P3+P4+P5+P6)/2.2
-print (m)
+    print ("Sum: ", (P1+P2+P3+P4+P5+P6)/2.2)
 # NO  MODIFICAR  NADA  BAJO  ESTA  LINEA
 
 #NO  MODIFICAR  NADA  SOBRE  ESTA  LINEA
